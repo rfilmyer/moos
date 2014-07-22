@@ -8,7 +8,7 @@ config = {
     'author': 'Roger Filmyer',
     'url': 'https://github.com/rfilmyer/moos',
     'version': '0.1',
-    'install_requires': ['nose', 'PIL'], #tesseract and Wand next up!
+    'install_requires': ['nose', 'pillow'], #tesseract and Wand next up!
     'scripts': [],
     'name': 'moos',
 }
